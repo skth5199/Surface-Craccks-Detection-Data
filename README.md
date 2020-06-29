@@ -1,4 +1,4 @@
-# Surface Craccks Detection Datasets
+# Surface Cracks Detection Datasets
 ### 1. Smartphone Clicks dataset</h3>
  #### Specifics:
   * Archive file name: Smartphone clicks dataset.zip
