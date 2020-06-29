@@ -1,13 +1,15 @@
 # Surface Craccks Detection Datasets
 ### 1. Smartphone Clicks dataset</h3>
+  * Archive name: Smartphone clicks dataset.zip
   * Image classes: 2 (Crack and No Crack)
-  * Images resolution: 227x227
+  * Image resolution: 227x227
   * Image count:
     - Crack: 197
     - No Crack: 3792
   * Created on 25/11/2019
-### 2. Google image search cracks datase</h3>
+### 2. Google image search cracks dataset</h3>
+  * Archive name: 27_image_web_test_data.zip
   * All images are of surface cracks
-  * Images resolution: 227x227
-  * Images count: 27
+  * Image resolution: 227x227
+  * Image count: 27
   * Created on 07/11/2019
